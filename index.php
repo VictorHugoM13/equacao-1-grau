@@ -82,7 +82,7 @@
         >
 
         <button type="submit">
-            Resolver
+            Resooolver
         </button>
 
     </form>
